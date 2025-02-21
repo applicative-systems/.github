@@ -18,3 +18,12 @@ Battle-tested Nix & NixOS Training for corporations and individuals since 2023.
 [![Nixcademy on X/Twitter](https://img.shields.io/badge/Twitter-303030?style=for-the-badge&logo=x&logoColor=%23ffffff)](https://x.com/nixcademy)
 
 </div>
+
+### Check out our latest blog posts:
+
+
+- [Run and Auto-Update Docker Containers on NixOS](https://nixcademy.com/posts/auto-update-containers/) (3 months ago)
+- [C&#43;&#43; with Nix in 2023, Part 1: Developer Shells](https://nixcademy.com/posts/cpp-with-nix-in-2023-part-1-shell/) (1 year ago)
+- [C&#43;&#43; with Nix in 2023, Part 2: Package Generation and Cross-Compilation](https://nixcademy.com/posts/cpp-with-nix-in-2023-part-2-package/) (1 year ago)
+- [Separation of Concerns in Cross-Compilation](https://nixcademy.com/posts/cross-compilation-with-nix/) (1 year ago)
+- [Build and Deploy Linux Systems from macOS](https://nixcademy.com/posts/macos-linux-builder/) (1 year ago)
