@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Welcome to the GitHub org or Applicative Systems!</h1>
+<h1>Welcome to the GitHub org of Applicative Systems!</h1>
 
 We are
 
@@ -22,5 +22,5 @@ Battle-tested Nix & NixOS Training for corporations and individuals since 2023.
 ### Check out our latest blog posts:
 
 {{range rss "https://nixcademy.com/feed.xml" 5}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+- [{{.Title}}]({{.URL}})
 {{- end}}
