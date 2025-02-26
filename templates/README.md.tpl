@@ -13,7 +13,7 @@ Software engineering consultants, fans of Nix & NixOS, and the creators of
 Battle-tested Nix & NixOS Training for corporations and individuals since 2023.
 
 [![Nixcademy Blog](https://img.shields.io/badge/Nixcademy%20Blog-grey?style=for-the-badge&logo=blogger&logoColor=eeeeee&color=7ebae4)](https://nixcademy.com/posts/1/)
-[![Nixcademy Shop](https://img.shields.io/badge/Nixcademy%20Shop-grey?style=for-the-badge&logo=shopify&logoColor=eeeeee&color=5277c3)](https://nixcademy.com/posts/1/)
+[![Nixcademy Shop](https://img.shields.io/badge/Nixcademy%20Shop-grey?style=for-the-badge&logo=shopify&logoColor=eeeeee&color=5277c3)](https://shop.nixcademy.com)
 [![Nixcademy on LinkedIn](https://img.shields.io/badge/LinkedIn-1667be?style=for-the-badge&logo=linkedin&logoColor=%23ffffff)](https://www.linkedin.com/company/nixcademy/)
 [![Nixcademy on X/Twitter](https://img.shields.io/badge/Twitter-303030?style=for-the-badge&logo=x&logoColor=%23ffffff)](https://x.com/nixcademy)
 
