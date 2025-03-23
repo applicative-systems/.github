@@ -22,8 +22,8 @@ Battle-tested Nix & NixOS Training for corporations and individuals since 2023.
 ### Check out our latest blog posts:
 
 
+- [Nix IFD: A Ticking Time Bomb in Your Build Pipeline?](https://nixcademy.com/posts/what-is-ifd-ups-and-downs/)
 - [Run and Auto-Update Docker Containers on NixOS](https://nixcademy.com/posts/auto-update-containers/)
-- [C&#43;&#43; with Nix in 2023, Part 1: Developer Shells](https://nixcademy.com/posts/cpp-with-nix-in-2023-part-1-shell/)
-- [C&#43;&#43; with Nix in 2023, Part 2: Package Generation and Cross-Compilation](https://nixcademy.com/posts/cpp-with-nix-in-2023-part-2-package/)
-- [Separation of Concerns in Cross-Compilation](https://nixcademy.com/posts/cross-compilation-with-nix/)
-- [Build and Deploy Linux Systems from macOS](https://nixcademy.com/posts/macos-linux-builder/)
+- [Mastering Nixpkgs Overlays: Techniques and Best Practice](https://nixcademy.com/posts/mastering-nixpkgs-overlays-techniques-and-best-practice/)
+- [What You Need to Know About Lazy Evaluation in Nix](https://nixcademy.com/posts/what-you-need-to-know-about-laziness/)
+- [Run NixOS Integration Tests on macOS](https://nixcademy.com/posts/running-nixos-integration-tests-on-macos/)
