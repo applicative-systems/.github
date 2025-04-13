@@ -8,7 +8,7 @@ We are
 
 Software engineering consultants, fans of Nix & NixOS, and the creators of
 
-[<img alt="Nixcademy" src="https://raw.githubusercontent.com/applicative-systems/.github/main/.github/nixcademy.svg" width="600">](https://applicative.systems)
+[<img alt="Nixcademy" src="https://raw.githubusercontent.com/applicative-systems/.github/main/.github/nixcademy.svg" width="600">](https://nixcademy.com)
 
 Battle-tested Nix & NixOS Training for corporations and individuals since 2023.
 
