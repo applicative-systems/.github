@@ -22,8 +22,8 @@ Battle-tested Nix & NixOS Training for corporations and individuals since 2023.
 ### Check out our latest blog posts:
 
 
+- [Demonstrably Secure Software Supply Chains with Nix](https://nixcademy.com/posts/secure-supply-chain-with-nix/)
 - [Ekapkgs, a poly-repo fork of Nixpkgs](https://nixcademy.com/posts/ekala-project/)
 - [Nix IFD: A Ticking Time Bomb in Your Build Pipeline?](https://nixcademy.com/posts/what-is-ifd-ups-and-downs/)
 - [Run and Auto-Update Docker Containers on NixOS](https://nixcademy.com/posts/auto-update-containers/)
 - [Mastering Nixpkgs Overlays: Techniques and Best Practice](https://nixcademy.com/posts/mastering-nixpkgs-overlays-techniques-and-best-practice/)
-- [What You Need to Know About Lazy Evaluation in Nix](https://nixcademy.com/posts/what-you-need-to-know-about-laziness/)
