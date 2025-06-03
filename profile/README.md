@@ -22,7 +22,7 @@ Battle-tested Nix & NixOS Training for corporations and individuals since 2023.
 ### Check out our latest blog posts:
 
 
-- [1000 instances of flake-utils](https://nixcademy.com/posts/1000-instances-of-flake-utils/)
+- [1000 Instances of flake-utils](https://nixcademy.com/posts/1000-instances-of-flake-utils/)
 - [Ekpkgs: Streamlining Nixpkgs and Flakes for a Smoother Experience](https://nixcademy.com/posts/ekapkgs-overlays-flakes/)
 - [Demonstrably Secure Software Supply Chains with Nix](https://nixcademy.com/posts/secure-supply-chain-with-nix/)
 - [Ekapkgs, a poly-repo fork of Nixpkgs](https://nixcademy.com/posts/ekala-project/)
