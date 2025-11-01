@@ -22,8 +22,8 @@ Battle-tested Nix & NixOS Training for corporations and individuals since 2023.
 ### Check out our latest blog posts:
 
 
+- [Minimizing NixOS images](https://nixcademy.com/posts/minimizing-nixos-images/)
+- [Self-growing NixOS appliance images with systemd-repart](https://nixcademy.com/posts/auto-growing-nixos-appliance-images-with-systemd-repart/)
 - [1000 Instances of flake-utils](https://nixcademy.com/posts/1000-instances-of-flake-utils/)
 - [Ekpkgs: Streamlining Nixpkgs and Flakes for a Smoother Experience](https://nixcademy.com/posts/ekapkgs-overlays-flakes/)
 - [Demonstrably Secure Software Supply Chains with Nix](https://nixcademy.com/posts/secure-supply-chain-with-nix/)
-- [Ekapkgs, a poly-repo fork of Nixpkgs](https://nixcademy.com/posts/ekala-project/)
-- [Nix IFD: A Ticking Time Bomb in Your Build Pipeline?](https://nixcademy.com/posts/what-is-ifd-ups-and-downs/)
