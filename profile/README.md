@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Welcome to the GitHub org of Applicative Systems!</h1>
+<h1>Welcome to the GitHub org of <a href="https://applicative.systems">Applicative Systems</a>!</h1>
 
 We are
 
