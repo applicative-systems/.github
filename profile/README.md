@@ -26,4 +26,4 @@ Battle-tested [Nix & NixOS Training](https://nixcademy.com) for corporations and
 - [Minimizing NixOS images](https://nixcademy.com/posts/minimizing-nixos-images/)
 - [Self-growing NixOS appliance images with systemd-repart](https://nixcademy.com/posts/auto-growing-nixos-appliance-images-with-systemd-repart/)
 - [1000 Instances of flake-utils](https://nixcademy.com/posts/1000-instances-of-flake-utils/)
-- [Ekpkgs: Streamlining Nixpkgs and Flakes for a Smoother Experience](https://nixcademy.com/posts/ekapkgs-overlays-flakes/)
+- [Ekapkgs: Streamlining Nixpkgs and Flakes for a Smoother Experience](https://nixcademy.com/posts/ekapkgs-overlays-flakes/)
