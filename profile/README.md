@@ -22,8 +22,8 @@ Battle-tested [Nix & NixOS Training](https://nixcademy.com) for corporations and
 ### Check out our latest blog posts:
 
 
-- [Immutable A/B system partitions with NixOS for over-the-air updates](https://nixcademy.com/posts/immutable-ab-system-partitions-with-nixos-for-ota-updates/)
+- [Cross-Compiling NixOS images](https://nixcademy.com/posts/cross-compile-nixos-images/)
+- [Immutable A/B system partitions with NixOS for over-the-air updates with systemd-sysupdate](https://nixcademy.com/posts/immutable-ab-system-partitions-with-nixos-for-ota-updates-with-systemd-sysupdate/)
 - [Minimizing NixOS images](https://nixcademy.com/posts/minimizing-nixos-images/)
 - [Self-growing NixOS appliance images with systemd-repart](https://nixcademy.com/posts/auto-growing-nixos-appliance-images-with-systemd-repart/)
 - [1000 Instances of flake-utils](https://nixcademy.com/posts/1000-instances-of-flake-utils/)
-- [Ekapkgs: Streamlining Nixpkgs and Flakes for a Smoother Experience](https://nixcademy.com/posts/ekapkgs-overlays-flakes/)
