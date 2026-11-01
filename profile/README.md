@@ -31,7 +31,11 @@ Battle-tested [Nix & NixOS training](https://nixcademy.com) for corporations and
 [![Nixcademy on LinkedIn](https://img.shields.io/badge/LinkedIn-1667be?style=for-the-badge&logo=linkedin&logoColor=%23ffffff)](https://www.linkedin.com/company/nixcademy/)
 [![Nixcademy on X/Twitter](https://img.shields.io/badge/Twitter-303030?style=for-the-badge&logo=x&logoColor=%23ffffff)](https://x.com/nixcademy)
 
-**[Institute of Nix](https://nix.institute)**: video courses and books about Nix, like [Nix Anti-Patterns](https://nix.institute/books/nix-anti-patterns).
+**[Institute of Nix](https://nix.institute)**: video courses and books about Nix:
+
+[Book: **Nix Anti-Patterns**](https://nix.institute/books/nix-anti-patterns)
+
+[Video Course: **Nix 101**](https://nix.institute/courses/nix-101-course)
 
 </div>
 
